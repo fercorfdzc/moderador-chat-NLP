@@ -136,6 +136,6 @@ Este proyecto contribuye a transformar las plataformas digitales en espacios má
 ## Authors
 
 - [Jonathan Fernandez Cordova ](https://github.com/fercorfdzc)
-- [Renata Castro Olmos ](https://github.com/RenataCastro19)
-- [Brayan Emanuel Vazques Peña ](https://github.com/Brayan1224)
+- [Renata Carolina Castro Olmos ](https://github.com/RenataCastro19)
+- [Brayan Emanuel Vazquez Peña ](https://github.com/Brayan1224)
 - [Adriana de los Angeles Toto Chapol ](https://github.com/AdrianaTc26)
