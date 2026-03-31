@@ -3,7 +3,7 @@
 Este proyecto consiste en el desarrollo de un sistema inteligente capaz de detectar lenguaje tóxico y discurso de odio en chats en tiempo real, utilizando técnicas modernas de Procesamiento de Lenguaje Natural (NLP).
 El sistema analiza mensajes escritos por los usuarios y los clasifica en distintas categorías como:
 
-- ***Contenido Limpio** 💚
+- **Contenido Limpio** 💚
 - **Lenguaje toxico** ☢️ 
 - **Lenguaje de odio** 😡 
 
