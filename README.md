@@ -33,9 +33,11 @@ los chats en vivo suelen contener:
 
 la Modelacion Manual:
 
-- ❌ *No es escalable*
-- ❌ *Es lenta* 
-- ❌ *No cubre todos los mensajes* 
+❌ *No es escalable*
+
+❌ *Es lenta* 
+ 
+❌ *No cubre todos los mensajes* 
 
 Este sistema automatiza la detección para mejorar la seguridad digital.
 
