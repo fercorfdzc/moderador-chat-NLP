@@ -22,7 +22,7 @@ Desarrollar un sistema de moderación automática para chats en tiempo real que 
 - Definir reglas de moderación basadas en probabilidades
 - Evaluar el modelo con métricas (precision, recall, F1).           
 
-## ¿Qué problema resuelve? 
+## ¿Qué problema resuelve?  🚩
 los chats en vivo suelen contener:
 - *Insultos*
 - *Acoso* 
@@ -30,17 +30,17 @@ los chats en vivo suelen contener:
 
 la Modelacion Manual:
 
-- *No es escalable*
-- *Es lenta* 
-- *No cubre todos los mensajes* 
+- ❌ *No es escalable*
+- ❌ *Es lenta* 
+- ❌ *No cubre todos los mensajes* 
 
 Este sistema automatiza la detección para mejorar la seguridad digital.
 
 ## Relevancia
-- Mejora la convivencia en comunidades digitales
-- Reduce carga de moderadores humanos
-- Apoya a plataformas de streaming y creadores de contenido
-- Promueve entornos más seguros
+- *Mejora la convivencia en comunidades digitales*
+- *Reduce carga de moderadores humanos**
+- *Apoya a plataformas de streaming y creadores de contenido*
+- *Promueve entornos más seguros*
   
 ## Tecnologias Utilizadas
 
