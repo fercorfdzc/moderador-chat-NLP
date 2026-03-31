@@ -11,7 +11,7 @@ El sistema analiza mensajes escritos por los usuarios y los clasifica en distint
 Desarrollar un sistema de moderación automática para chats en tiempo real que identifique y clasifique contenido ofensivo mediante inteligencia artificial, permitiendo su integración en entornos reales de comunicación digital.
 
 ###  Objetivos Espeificos
-- Diseñar un pipeline de NLP para análisis de mensajes cortos.  
+° Diseñar un pipeline de NLP para análisis de mensajes cortos.  
 - Implementar fine-tuning de un modelo para el idioma Español/Ingles.
 - Crear un dataset etiquetado (clean, toxic, hate).                 
 - Desarrollar una API REST para el modelo. 
@@ -33,7 +33,7 @@ la Modelacion Manual:
 
 Este sistema automatiza la detección para mejorar la seguridad digital.
 
-## Relevancia
+### Relevancia
 - *Mejora la convivencia en comunidades digitales*
 - *Reduce carga de moderadores humanos**
 - *Apoya a plataformas de streaming y creadores de contenido*
@@ -51,14 +51,14 @@ Este sistema automatiza la detección para mejorar la seguridad digital.
 | **Evaluación** | *Scikit-learn*   | 
 | **Versiones**   | *Git + GitHub* | 
   
-## Arquitectura del Sistema
+### Arquitectura del Sistema
 - El Usuario comenta mensajes en vivo
 - Bot captura el mensaje 
 - API procesa el texto 
 - Modelo NLP clasifica el contenido
 - Sistema aplica reglas de moderación
   
-## Datos y Recursos
+### Datos y Recursos
 1. Recolección
 - Datasets Personalizados
 2. Preprocesamiento
@@ -76,45 +76,45 @@ Este sistema automatiza la detección para mejorar la seguridad digital.
 - F1-score
 - Matriz de confusión
   
-## Metricas de Evaluación
+### Metricas de Evaluación
 - Precision: Exactitud en predicciones positivas
 - Recall: Capacidad de detectar contenido ofensivo
 - F1-score: Balance entre precision y recall
 - Matriz de confusión: Análisis de errores
   
-## Aprendizaje del Modelo
+### Aprendizaje del Modelo
 - Aprendizaje supervisado
 - Datos etiquetados
 - Ajuste de hiperparámetros
 - Mejora iterativa mediante retroalimentación
   
-## Retroalimentación
+### Retroalimentación
 El sistema mejora mediante:
 - Análisis de errores
 - Ajuste de umbrales
 - Reentrenamiento del modelo
 - Refinamiento del dataset
   
-## Desafíos
+### Desafíos
 - Desbalance de datos
 - Ambigüedad del lenguaje
 - Sarcasmo e ironía
 - Falsos positivos
 - Limitaciones computacionales
   
-## Aplicaciones
+### Aplicaciones
 - Moderación automática de chats
 - Plataformas de streaming
 - Redes sociales
 - Sistemas de filtrado de contenido
   
-## Impacto Esperado
+### Impacto Esperado
 - Mejora de entornos digitales 
 - Reducción de contenido dañino 
 - Apoyo a moderadores humanos 
 - Uso responsable de IA
   
-## Trabajo a Futuro
+### Trabajo a Futuro
 - Optimización con ONNX o cuantización
 - Panel web de estadísticas
 - Soporte multilenguaje
