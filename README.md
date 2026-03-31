@@ -29,11 +29,10 @@ los chats en vivo suelen contener:
 - *Lenguaje descriminatorio* 
 
 la Modelacion Manual:
-<span style="color:red"> 
-*No es escalable*
-</span>
-<span style="color:red"> *Es lenta* </span>
-<span style="color:red">- *No cubre todos los mensajes* </span> 
+
+- *No es escalable*
+- *Es lenta* 
+- *No cubre todos los mensajes* 
 
 Este sistema automatiza la detección para mejorar la seguridad digital.
 
