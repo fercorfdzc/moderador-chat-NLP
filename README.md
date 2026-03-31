@@ -27,9 +27,11 @@ Desarrollar un sistema de moderación automática para chats en tiempo real que 
 
 ## ¿Qué problema resuelve?  🚩
 los chats en vivo suelen contener:
-- *Insultos*
-- *Acoso* 
-- *Lenguaje descriminatorio* 
+❌  *Insultos*
+
+❌ *Acoso* 
+
+❌ *Lenguaje descriminatorio* 
 
 la Modelacion Manual:
 
