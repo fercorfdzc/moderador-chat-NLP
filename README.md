@@ -43,7 +43,7 @@ Este sistema automatiza la detección para mejorar la seguridad digital.
   
 ## Tecnologias Utilizadas
 
-| Área | Herramientas | 
+| 🟢 Área |  🟡 Herramientas | 
 |-----------|-----------|
 | Lenguaje    | Python    | 
 | Deep Learning  | PyTorch   | 
@@ -52,6 +52,25 @@ Este sistema automatiza la detección para mejorar la seguridad digital.
 | Datos  | Pandas, Conjuntos de datos  | 
 | Evaluación | Scikit-learn   | 
 | Versiones   | Git + GitHub | 
+
+<table>
+  <thead>
+    <tr style="background-color: #4CAF50; color: white;">
+      <th>Tecnología</th>
+      <th>Descripción</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Python</td>
+      <td>Backend</td>
+    </tr>
+    <tr style="background-color: #f2f2f2;">
+      <td>React</td>
+      <td>Frontend</td>
+    </tr>
+  </tbody>
+</table>
 
   
 ## Arquitectura del Sistema
