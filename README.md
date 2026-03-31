@@ -49,7 +49,7 @@ Este sistema automatiza la detección para mejorar la seguridad digital.
 | Deep Learning  | PyTorch   | 
 | NLP    | Hugging Face Transformers   | 
 | API | FastAPI   | 
-| Datos  | Pandas, conjuntos de datos  | 
+| Datos  | Pandas, Conjuntos de datos  | 
 | Evaluación | Scikit-learn   | 
 | Versiones   | Git + GitHub | 
 
