@@ -117,11 +117,11 @@ El sistema mejora mediante:
 - Apoyo a moderadores humanos 
 - Uso responsable de IA
   
-## Futuras Mejoras
+## Trabajo a Futuro
 - Optimización con ONNX o cuantización
 - Panel web de estadísticas
 - Soporte multilenguaje
-- Detección de emociones (extensión con ML)
+- Detección de emociones con extensión ML
   
 ## Authors
 
